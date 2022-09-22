@@ -1,6 +1,3 @@
-from tkinter import E
-
-
 def summe(x):
     
     a = 0
