@@ -1,0 +1,7 @@
+"&"     Schnittmenge (also die Schnittmenge von A & B)
+"|"     Vereinigungsmenge (also alles von A und B)
+"-"     Differenzmenge -> bei "A-B" wird alles von A genommen, außer die Schnittmenge von A&B und alles außer bei -> A-B ≠ B-alles
+"^"     sym. Differenz -> alles von A und B jeweils nur ohne die gemeinsame Schnittmenge
+
+
+Listen/Sets werden verwendet, wenn man ein Element nur einmalig haben will und sicher gehen will, dass des nur einmal vorkommt.

@@ -1,0 +1,10 @@
+import re
+
+# Die Funktionen die es gibt
+re.sub()
+re.findall()
+re.search()
+re.find()
+re.match()
+
+# Metacharacters 
