@@ -1,0 +1,111 @@
+﻿Member;Counterpart;Property;Value;Key;Comment;range_low;range_high
+A;;speaking proportion;0,36;s;Redeanteil in Meetings;0;1.0
+A;;dominance;0,25;d;Dominanz in Meetings;0;1.0
+A;B;affection;-0,77;a;Zuneigung;-1.0;1.0
+A;B;obedience;-0,18;o;Gehorsamkeit;-1.0;1.0
+A;B;provision of resources;0,58;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+A;B;intensity of collaboration;0,94;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+A;B;open conflict;0,87;c;Offener Konflikt;0;1.0
+A;C;affection;-0,20;a;Zuneigung;-1.0;1.0
+A;C;obedience;0,38;o;Gehorsamkeit;-1.0;1.0
+A;C;provision of resources;-0,49;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+A;C;intensity of collaboration;0,14;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+A;C;open conflict;0,30;c;Offener Konflikt;0;1.0
+A;D;affection;-0,76;a;Zuneigung;-1.0;1.0
+A;D;obedience;0,02;o;Gehorsamkeit;-1.0;1.0
+A;D;provision of resources;0,03;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+A;D;intensity of collaboration;0,44;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+A;D;open conflict;0,60;c;Offener Konflikt;0;1.0
+A;E;affection;-0,03;a;Zuneigung;-1.0;1.0
+A;E;obedience;0,67;o;Gehorsamkeit;-1.0;1.0
+A;E;provision of resources;0,95;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+A;E;intensity of collaboration;0,94;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+A;E;open conflict;0,10;c;Offener Konflikt;0;1.0
+B;;speaking proportion;0,09;s;Redeanteil in Meetings;0;1.0
+B;;dominance;0,96;d;Dominanz in Meetings;0;1.0
+B;A;affection;0,86;a;Zuneigung;-1.0;1.0
+B;A;obedience;-0,35;o;Gehorsamkeit;-1.0;1.0
+B;A;provision of resources;0,83;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+B;A;intensity of collaboration;0,35;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+B;A;open conflict;0,99;c;Offener Konflikt;0;1.0
+B;C;affection;0,00;a;Zuneigung;-1.0;1.0
+B;C;obedience;0,97;o;Gehorsamkeit;-1.0;1.0
+B;C;provision of resources;0,44;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+B;C;intensity of collaboration;0,05;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+B;C;open conflict;0,89;c;Offener Konflikt;0;1.0
+B;D;affection;0,88;a;Zuneigung;-1.0;1.0
+B;D;obedience;-0,86;o;Gehorsamkeit;-1.0;1.0
+B;D;provision of resources;0,49;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+B;D;intensity of collaboration;-0,62;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+B;D;open conflict;0,42;c;Offener Konflikt;0;1.0
+B;E;affection;-0,13;a;Zuneigung;-1.0;1.0
+B;E;obedience;-0,88;o;Gehorsamkeit;-1.0;1.0
+B;E;provision of resources;-0,87;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+B;E;intensity of collaboration;0,66;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+B;E;open conflict;0,11;c;Offener Konflikt;0;1.0
+C;;speaking proportion;0,01;s;Redeanteil in Meetings;0;1.0
+C;;dominance;0,82;d;Dominanz in Meetings;0;1.0
+C;A;affection;0,30;a;Zuneigung;-1.0;1.0
+C;A;obedience;-0,58;o;Gehorsamkeit;-1.0;1.0
+C;A;provision of resources;0,77;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+C;A;intensity of collaboration;-0,19;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+C;A;open conflict;0,08;c;Offener Konflikt;0;1.0
+C;B;affection;0,65;a;Zuneigung;-1.0;1.0
+C;B;obedience;-0,22;o;Gehorsamkeit;-1.0;1.0
+C;B;provision of resources;0,57;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+C;B;intensity of collaboration;-0,52;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+C;B;open conflict;0,47;c;Offener Konflikt;0;1.0
+C;D;affection;-0,99;a;Zuneigung;-1.0;1.0
+C;D;obedience;-0,17;o;Gehorsamkeit;-1.0;1.0
+C;D;provision of resources;-0,84;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+C;D;intensity of collaboration;0,23;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+C;D;open conflict;0,22;c;Offener Konflikt;0;1.0
+C;E;affection;-0,23;a;Zuneigung;-1.0;1.0
+C;E;obedience;0,22;o;Gehorsamkeit;-1.0;1.0
+C;E;provision of resources;-0,48;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+C;E;intensity of collaboration;0,02;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+C;E;open conflict;0,30;c;Offener Konflikt;0;1.0
+D;;speaking proportion;0,62;s;Redeanteil in Meetings;0;1.0
+D;;dominance;0,61;d;Dominanz in Meetings;0;1.0
+D;A;affection;-0,19;a;Zuneigung;-1.0;1.0
+D;A;obedience;0,93;o;Gehorsamkeit;-1.0;1.0
+D;A;provision of resources;-0,12;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+D;A;intensity of collaboration;-0,27;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+D;A;open conflict;0,25;c;Offener Konflikt;0;1.0
+D;B;affection;-0,42;a;Zuneigung;-1.0;1.0
+D;B;obedience;-0,70;o;Gehorsamkeit;-1.0;1.0
+D;B;provision of resources;-0,04;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+D;B;intensity of collaboration;0,70;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+D;B;open conflict;0,59;c;Offener Konflikt;0;1.0
+D;C;affection;0,73;a;Zuneigung;-1.0;1.0
+D;C;obedience;0,76;o;Gehorsamkeit;-1.0;1.0
+D;C;provision of resources;-0,40;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+D;C;intensity of collaboration;0,78;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+D;C;open conflict;0,81;c;Offener Konflikt;0;1.0
+D;E;affection;-0,51;a;Zuneigung;-1.0;1.0
+D;E;obedience;0,16;o;Gehorsamkeit;-1.0;1.0
+D;E;provision of resources;0,38;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+D;E;intensity of collaboration;-0,55;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+D;E;open conflict;0,94;c;Offener Konflikt;0;1.0
+E;;speaking proportion;0,43;s;Redeanteil in Meetings;0;1.0
+E;;dominance;0,05;d;Dominanz in Meetings;0;1.0
+E;A;affection;-0,48;a;Zuneigung;-1.0;1.0
+E;A;obedience;0,28;o;Gehorsamkeit;-1.0;1.0
+E;A;provision of resources;0,05;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+E;A;intensity of collaboration;0,53;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+E;A;open conflict;0,31;c;Offener Konflikt;0;1.0
+E;B;affection;-0,03;a;Zuneigung;-1.0;1.0
+E;B;obedience;-0,64;o;Gehorsamkeit;-1.0;1.0
+E;B;provision of resources;0,31;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+E;B;intensity of collaboration;0,89;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+E;B;open conflict;0,05;c;Offener Konflikt;0;1.0
+E;C;affection;-0,18;a;Zuneigung;-1.0;1.0
+E;C;obedience;-0,73;o;Gehorsamkeit;-1.0;1.0
+E;C;provision of resources;-0,56;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+E;C;intensity of collaboration;0,17;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+E;C;open conflict;0,92;c;Offener Konflikt;0;1.0
+E;D;affection;0,20;a;Zuneigung;-1.0;1.0
+E;D;obedience;-0,20;o;Gehorsamkeit;-1.0;1.0
+E;D;provision of resources;-0,16;r;Bereitstellung von Ressourcen (Knowhow, Informationen, Zuarbeit);-1.0;1.0
+E;D;intensity of collaboration;-0,07;i;Umfang der Zusammenarbeit (Zeit, Anzahl Nachrichten);-1.0;1.0
+E;D;open conflict;0,40;c;Offener Konflikt;0;1.0
